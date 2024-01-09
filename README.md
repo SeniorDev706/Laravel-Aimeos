@@ -89,7 +89,6 @@ Supported languages:
      <a href="https://www.transifex.com/aimeos/dashboard/all_projects/id/"><img src="https://flagicons.lipis.dev/flags/4x3/id.svg" title="Indonesian" width="24"></a>
      <a href="https://www.transifex.com/aimeos/dashboard/all_projects/vi/"><img src="https://flagicons.lipis.dev/flags/4x3/vi.svg" title="Vietnamese" width="24"></a>
      <a href="https://www.transifex.com/aimeos/dashboard/all_projects/my/"><img src="https://flagicons.lipis.dev/flags/4x3/my.svg" title="Burmese" width="24"></a>
-     <a href="https://www.transifex.com/aimeos/dashboard/all_projects/ko/"><img src="https://flagicons.lipis.dev/flags/4x3/kr.svg" title="Korean" width="24"></a>
 </p>
 
 
